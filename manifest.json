@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
-  "version": "1.0",
+  "name": "DnD Inspiration Point Tracker",
+  "description": "This is meant to be a simple tracker for your IPs throughout your campaign",
+  "version": "0.1",
   "action": {
     "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    "default_icon": "dnd_ip_tracker.png"
   }
 }
